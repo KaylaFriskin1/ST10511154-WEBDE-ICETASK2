@@ -19,9 +19,9 @@ PART 1 WEBDEVELOPMENT ASSIGNMENT
   - Enquiryhtml
 
 
-# Part 2 changes
+# Part 2 POE
 
-For part 2, i focused on improving my website by adding css.styles inside my Assets folder.
+For part 2, I focused on improving my website by adding css.styles inside my Assets folder, proving my website proposal and editing the readme.Md
 ---
 
 ## Features
